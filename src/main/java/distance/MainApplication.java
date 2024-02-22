@@ -8,6 +8,6 @@ public class MainApplication {
         inputs.unit();
         inputs.value();
 
-        count.getValueAndUnit(inputs.getFromUnit(), inputs.getToUnit(), inputs.getValueNumber());
+        count.getValueAndUnit(inputs.getFromUnit(), inputs.getValueNumber());
     }
 }
